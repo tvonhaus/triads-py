@@ -20,4 +20,4 @@ BFlat_Major = triad('Bb','D','F')
 B_Major = triad('B','D#','F#')
 
 #Minor Chords
-C_Minor = tiad('C','Eb','G')
+C_Minor = triad('C','Eb','G')
